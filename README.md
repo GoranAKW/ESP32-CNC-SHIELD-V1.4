@@ -1,7 +1,7 @@
 # ESP32-CNC-SHIELD-V1.4
 New version of ESP32 CNC SHIELD V1.3 30PIN
 
-My Image
+ ![My Image](Images/Esp32_Cnc_Shield_30PinV1.4.png)
 
 For this version i ordered the boards SMD, made some changes: JST connectors and component emplacement.
 
