@@ -25,8 +25,5 @@ My Image
 
 In files you'll find Machines.h and /Machines/GCan_Cnc_Shield_V1.4.h.
 
-You can find it on eBay (ESP32 CNC Shield V1.4 with SD-card reader included).
-
 You can find a STL file for the box on my Grabcad page, look for: Enclosure for GCan Esp32 Cnc Shield v1.4.
 
-If you want another configuration, don`t hesitate to contact me.
